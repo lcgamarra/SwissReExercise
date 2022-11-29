@@ -1,0 +1,1 @@
+{"file_name": "data/access2.log", "most_frequent_ip": [{"10.105.23.145": 332}], "least_frequent_ip": null, "events_per_second": null, "total_bytes_exchanged": null}
